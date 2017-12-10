@@ -464,6 +464,10 @@ button:focus,
 .content-item {
     margin-bottom : 40px;
     }
+	
+ul {
+  list-style-type: none;
+}	
 
 .content-item h3 {
     margin         : 0 0 10px;
